@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/YJS.ini
+https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/Proxy.list
