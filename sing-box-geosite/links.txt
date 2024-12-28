@@ -1,1 +1,1 @@
-https://file-yjs.oss-cn-nanjing.aliyuncs.com/ACL4SSR/ACL4SSR/Clash/Ruleset/Download.list
+https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/YJS.ini
