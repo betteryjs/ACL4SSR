@@ -1,7 +1,15 @@
 {
   "rules": [
     {
+      "domain_keyword": [
+        "dogecloud",
+        "micu"
+      ]
+    },
+    {
       "domain_suffix": [
+        "console.dogecloud.com",
+        "dogecloud.com",
         "micu.hk",
         "tv.micu.hk",
         "tv0.micu.hk",
