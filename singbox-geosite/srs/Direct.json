@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "micu.hk",
+        "tv.micu.hk",
+        "tv0.micu.hk",
+        "tv1.micu.hk"
+      ]
+    }
+  ],
+  "version": 2
+}

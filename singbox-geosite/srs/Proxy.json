@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloud.ggvision.net",
+        "mm.duraincloud.com",
+        "paoluz.com",
+        "status.660114.xyz"
+      ]
+    }
+  ],
+  "version": 2
+}

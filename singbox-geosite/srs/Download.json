@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "aria2"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "smtp"
+      ]
+    }
+  ],
+  "version": 2
+}
