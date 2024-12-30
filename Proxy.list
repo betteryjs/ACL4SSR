@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,prokvm.shingstack.com
 DOMAIN-SUFFIX,shingstack.com
 DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,v.ps
+
 
 # my cdn
 DOMAIN-SUFFIX,cdn-alist.naloong.de
