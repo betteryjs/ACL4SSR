@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+
+# my cdn
+DOMAIN-SUFFIX,cdn-alist.naloong.de
+

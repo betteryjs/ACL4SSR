@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/Direct.list
+https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/Proxy.list
