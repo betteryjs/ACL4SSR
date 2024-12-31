@@ -5,6 +5,7 @@
 cd ./SSTap-Rule
 git pull
 cd ..
+rm -rf "./Game"
 
 # 源文件夹路径
 src_folder="./SSTap-Rule/rules"
