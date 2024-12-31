@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "nhk.jp",
+        "nhk.or.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

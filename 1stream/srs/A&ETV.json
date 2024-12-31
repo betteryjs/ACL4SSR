@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aetv.com",
+        "ccpa-service.sp-prod.net"
+      ]
+    }
+  ],
+  "version": 2
+}

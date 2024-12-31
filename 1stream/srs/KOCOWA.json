@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kocowa.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "if.lemino.docomo.ne.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "assetshuluimcom-a.akamaihd.net",
+        "cws-hulu.conviva.com",
+        "hulu.com",
+        "hulu.hb.omtrdc.net",
+        "hulu.sc.omtrdc.net",
+        "huluad.com",
+        "huluqa.com",
+        "hulustream.com"
+      ]
+    }
+  ],
+  "version": 2
+}

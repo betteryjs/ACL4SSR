@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "viu.now.com",
+        "viu.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

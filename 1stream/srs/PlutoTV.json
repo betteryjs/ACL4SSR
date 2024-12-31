@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pluto.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

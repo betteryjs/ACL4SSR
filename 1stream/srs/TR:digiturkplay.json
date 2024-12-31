@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "digiturkplay.com",
+        "dt-int-gurme-hls.mncdn.com",
+        "dt-live-int.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}

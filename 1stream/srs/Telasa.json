@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "d2lmsumy47c8as.cloudfront.net",
+        "kddi-video.com",
+        "telasa.jp",
+        "videopass.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

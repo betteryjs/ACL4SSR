@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "litv.tv",
+        "litvfreepc.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}

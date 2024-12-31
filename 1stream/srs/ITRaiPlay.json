@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mediapolisvod.rai.it"
+      ]
+    }
+  ],
+  "version": 2
+}

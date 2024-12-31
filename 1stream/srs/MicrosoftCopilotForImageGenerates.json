@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "copilot.microsoft.com"
+      ]
+    }
+  ],
+  "version": 2
+}

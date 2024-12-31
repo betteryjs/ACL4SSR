@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "megogo.net",
+        "vcdn.biz"
+      ]
+    }
+  ],
+  "version": 2
+}

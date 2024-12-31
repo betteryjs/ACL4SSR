@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com"
+      ]
+    }
+  ],
+  "version": 2
+}

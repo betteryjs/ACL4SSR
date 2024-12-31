@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "radiko.jp",
+        "radionikkei.jp",
+        "smartstream.ne.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

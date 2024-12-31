@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pooq.co.kr",
+        "wavve.com"
+      ]
+    }
+  ],
+  "version": 2
+}

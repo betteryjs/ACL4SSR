@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "i-viaplay-com.akamaized.net",
+        "mtg-api.com",
+        "viaplay.com",
+        "viaplay.pl"
+      ]
+    }
+  ],
+  "version": 2
+}

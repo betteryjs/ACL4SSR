@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fxnow.fxnetworks.com"
+      ]
+    }
+  ],
+  "version": 2
+}

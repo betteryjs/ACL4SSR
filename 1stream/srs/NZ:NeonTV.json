@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "neontv.co.nz"
+      ]
+    }
+  ],
+  "version": 2
+}

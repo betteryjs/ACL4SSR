@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "naver.com",
+        "navercorp.com",
+        "pstatic.net",
+        "smartmediarep.com"
+      ]
+    }
+  ],
+  "version": 2
+}

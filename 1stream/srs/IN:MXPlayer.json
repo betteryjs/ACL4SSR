@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mxplayer.in"
+      ]
+    }
+  ],
+  "version": 2
+}

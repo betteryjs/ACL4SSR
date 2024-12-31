@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "paravi.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

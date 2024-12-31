@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sho.com",
+        "showtime.com",
+        "showtimeanytime.com"
+      ]
+    }
+  ],
+  "version": 2
+}

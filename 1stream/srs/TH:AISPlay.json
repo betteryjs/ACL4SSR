@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ais-vidnt.com",
+        "aisplay.ais.co.th"
+      ]
+    }
+  ],
+  "version": 2
+}

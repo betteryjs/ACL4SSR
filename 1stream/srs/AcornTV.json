@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "acorn.tv",
+        "api.rlje.net",
+        "boltdns.net",
+        "edge.api.brightcove.com"
+      ]
+    }
+  ],
+  "version": 2
+}

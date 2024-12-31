@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cliptv.vn"
+      ]
+    }
+  ],
+  "version": 2
+}

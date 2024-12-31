@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "shudder.com"
+      ]
+    }
+  ],
+  "version": 2
+}

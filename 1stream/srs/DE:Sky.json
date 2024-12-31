@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "edge.api.brightcove.com",
+        "sky.de"
+      ]
+    }
+  ],
+  "version": 2
+}

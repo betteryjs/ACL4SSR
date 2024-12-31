@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "youtube.com",
+        "youtubei.googleapis.com"
+      ]
+    }
+  ],
+  "version": 2
+}

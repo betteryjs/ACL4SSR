@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "data-cloudauthoring.magazine.rakuten.co.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

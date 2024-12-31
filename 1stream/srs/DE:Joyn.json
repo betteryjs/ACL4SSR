@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "joyn.de"
+      ]
+    }
+  ],
+  "version": 2
+}

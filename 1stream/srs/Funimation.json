@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "discoveryplus.in",
+        "funimation.com"
+      ]
+    }
+  ],
+  "version": 2
+}

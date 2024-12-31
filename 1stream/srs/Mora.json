@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mora.jp"
+      ]
+    }
+  ],
+  "version": 2
+}
