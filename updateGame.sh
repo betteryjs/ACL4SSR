@@ -1,5 +1,11 @@
 #!/bin/bash
 
+
+
+cd ./SSTap-Rule
+git pull
+cd ..
+
 # 源文件夹路径
 src_folder="./SSTap-Rule/rules"
 # 目标文件夹路径
