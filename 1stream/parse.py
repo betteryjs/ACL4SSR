@@ -50,7 +50,7 @@ class ParseRules:
             for line in lines:
                 if line.startswith('# >'):
                     current_rule_name = line[4:]
-                    current_rule_name = current_rule_name.replace(' ', '').replace('/', '')
+                    current_rule_name = current_rule_name.replace(' ', '').replace('/', '').replace('&', '-')
                     result.append([current_rule_name])
                 elif current_rule_name and line and not line.startswith('#'):
                     result[-1].append(line)
