@@ -27,7 +27,9 @@ for file in "$src_folder"/*.rules; do
         cp "$file" "$dst_folder/$file_name.txt"
     fi
 done
-cp -r "./SSTap-Rule/rules" "Game/SStap"
+cp -r "./SSTap-Rule/rules" "./Game/"
+mv "./Game/rules" "./Game/SSTap"
+
 
 
 git add .
