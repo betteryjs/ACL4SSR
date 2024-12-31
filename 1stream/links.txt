@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Ru
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/BritBox.list
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/Crackle.list
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/CWTV.list
-https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/A&ETV.list
+https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/A-ETV.list
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/NBATV.list
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/FuboTV.list
 https://raw.githubusercontent.com/betteryjs/ACL4SSR/refs/heads/master/1stream/Rules/TubiTV.list
