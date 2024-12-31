@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zee5.com"
+      ]
+    }
+  ],
+  "version": 2
+}

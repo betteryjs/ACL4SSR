@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "geolocation.onetrust.com"
+      ]
+    }
+  ],
+  "version": 2
+}

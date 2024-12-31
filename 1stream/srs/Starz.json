@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "starz.com"
+      ]
+    }
+  ],
+  "version": 2
+}

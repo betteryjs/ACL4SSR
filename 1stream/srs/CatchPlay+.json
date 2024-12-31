@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "catchplay.com",
+        "d2ivmxp5z2ww0n.cloudfront.net",
+        "ols-ww100-cp.akamaized.net",
+        "tra-www000-cp.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}

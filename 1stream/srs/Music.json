@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "music-book.jp",
+        "music.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

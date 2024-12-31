@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "abc-iview-mediapackagestreams-2.akamaized.net",
+        "iview.abc.net.au"
+      ]
+    }
+  ],
+  "version": 2
+}

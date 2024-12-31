@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mytv.vn"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cinemax.com",
+        "forthethrone.com",
+        "hbo.com",
+        "hbomax.com",
+        "hbomaxcdn.com",
+        "max.com",
+        "maxgo.com"
+      ]
+    }
+  ],
+  "version": 2
+}

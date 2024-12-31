@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "canalplus.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "video.friday.tw"
+      ]
+    }
+  ],
+  "version": 2
+}

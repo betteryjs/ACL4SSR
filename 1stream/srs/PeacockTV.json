@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "peacock.com",
+        "peacocktv.com"
+      ]
+    }
+  ],
+  "version": 2
+}

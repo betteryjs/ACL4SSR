@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "glxplay.io"
+      ]
+    }
+  ],
+  "version": 2
+}

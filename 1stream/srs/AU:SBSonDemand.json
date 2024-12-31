@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sbs-live-dai.akamaized.net",
+        "sbs-live.akamaized.net",
+        "sbs.com.au",
+        "sbsod.com",
+        "sbsvoddai-vh.akamaihd.net",
+        "sbsvodns-vh.akamaihd.net",
+        "videocdn-sbs.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "rakuten.co.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

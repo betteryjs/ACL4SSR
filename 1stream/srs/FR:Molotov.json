@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "molotov.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

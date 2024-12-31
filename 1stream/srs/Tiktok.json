@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "byteoversea.com",
+        "ibytedtos.com",
+        "ipstatp.com",
+        "muscdn.com",
+        "musical.ly",
+        "tik-tokapi.com",
+        "tiktok.com",
+        "tiktokcdn.com",
+        "tiktokv.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "imggaming.com",
+        "pndsn.com",
+        "prod-skyonelive.akamaized.net",
+        "sky.co.nz",
+        "skysportnow.co.nz"
+      ]
+    }
+  ],
+  "version": 2
+}

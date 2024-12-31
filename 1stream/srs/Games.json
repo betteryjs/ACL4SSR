@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "colorfulpalette.org",
+        "cygames.jp",
+        "jujutsuphanpara.jp",
+        "konosubafd.jp",
+        "worldflipper.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

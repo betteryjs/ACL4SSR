@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jtbc.co.kr"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "now.com"
+      ]
+    }
+  ],
+  "version": 2
+}

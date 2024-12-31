@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "popcornflix-prod.cloud.seachange.com",
+        "popcornflix.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bahamut.com.tw",
+        "gamer-cds.cdn.hinet.net",
+        "gamer.com.tw",
+        "gamer2-cds.cdn.hinet.net"
+      ]
+    }
+  ],
+  "version": 2
+}

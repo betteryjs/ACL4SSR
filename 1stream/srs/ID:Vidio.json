@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "geo-id-media-001-vidio-com.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}

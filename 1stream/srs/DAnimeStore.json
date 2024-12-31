@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "animestore.docomo.ne.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

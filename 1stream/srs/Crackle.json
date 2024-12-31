@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "crackle.com"
+      ]
+    }
+  ],
+  "version": 2
+}

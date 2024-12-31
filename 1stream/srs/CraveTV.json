@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "9c9media.com",
+        "crave.ca",
+        "go-mpulse.net"
+      ]
+    }
+  ],
+  "version": 2
+}

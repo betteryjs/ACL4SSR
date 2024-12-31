@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "content-jiovoot.voot.com"
+      ]
+    }
+  ],
+  "version": 2
+}

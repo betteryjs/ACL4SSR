@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sky.ch",
+        "zahs.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

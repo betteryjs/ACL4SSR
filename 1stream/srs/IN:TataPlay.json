@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "tataplay.com"
+      ]
+    }
+  ],
+  "version": 2
+}

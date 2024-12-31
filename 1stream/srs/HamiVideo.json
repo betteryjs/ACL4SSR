@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdn.hinet.net",
+        "hamivideo.hinet.net",
+        "scc.ott.hinet.net"
+      ]
+    }
+  ],
+  "version": 2
+}

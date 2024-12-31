@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdn.plyr.io",
+        "myvideo.net.tw"
+      ]
+    }
+  ],
+  "version": 2
+}

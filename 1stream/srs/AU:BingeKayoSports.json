@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kayosports.com.au",
+        "streamotion.com.au"
+      ]
+    }
+  ],
+  "version": 2
+}
