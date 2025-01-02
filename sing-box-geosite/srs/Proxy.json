@@ -9,6 +9,7 @@
       "domain_suffix": [
         "cdn-alist.naloong.de",
         "cloud.ggvision.net",
+        "cnys.tv",
         "github.com",
         "github.io",
         "githubapp.com",
@@ -19,7 +20,9 @@
         "paoluz.com",
         "ping0.cc",
         "prokvm.shingstack.com",
-        "shingstack.com"
+        "shingstack.com",
+        "v.ps",
+        "vps.hosting"
       ]
     }
   ],
