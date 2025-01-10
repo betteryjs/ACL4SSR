@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_keyword": [
+        "aliyun.com",
         "dogecloud",
         "micu"
       ]
@@ -9,6 +10,7 @@
     {
       "domain_suffix": [
         "console.dogecloud.com",
+        "dc.console.aliyun.com",
         "dogecloud.com",
         "micu.hk",
         "tv.micu.hk",
