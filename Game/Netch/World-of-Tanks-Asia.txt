@@ -1,4 +1,4 @@
-#World of Tanks-Asia,坦克世界-亚服,0,0,1,0,1,0,By-FQrabbit
+#World of Tanks-Asia,1
 5.188.133.0/24
 70.42.192.0/21
 74.201.96.0/20

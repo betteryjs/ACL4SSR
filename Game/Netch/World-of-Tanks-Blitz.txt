@@ -1,4 +1,4 @@
-#World of Tanks Blitz,坦克世界闪电战,0,0,1,0,1,0,By-ip_crawl_tool
+#World of Tanks Blitz,1
 92.223.29.0/24
 208.64.200.0/24
 35.160.106.0/24

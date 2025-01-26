@@ -1,4 +1,4 @@
-#World War 3,World War 3,0,0,1,0,1,0,By-normanbb & zhangdiming
+#World War 3,1
 5.8.93.0/24
 18.185.151.0/24
 20.74.128.0/24

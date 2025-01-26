@@ -1,4 +1,4 @@
-#Diablo3-Asia,暗黑破坏神3-亚服,0,0,1,0,1,0,By-FQrabbit & zhangdiming
+#Diablo3-Asia,1
 5.42.161.0/24
 8.241.144.126/32
 8.255.192.126/32

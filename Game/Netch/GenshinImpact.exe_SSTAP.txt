@@ -1,4 +1,4 @@
-#Genshin Impact TWHKMO,原神-港澳台服,0,0,1,0,1,0,By-ip_crawl_tool
+#Genshin Impact TWHKMO,1
 18.172.52.0/24
 13.225.183.0/24
 99.84.133.0/24

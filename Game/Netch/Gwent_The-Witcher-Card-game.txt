@@ -1,4 +1,4 @@
-#Gwent:The-Witcher-Card-game,巫师昆特牌国际服,0,0,1,0,1,0,By-normanbb
+#Gwent:The-Witcher-Card-game,1
 2.16.0.0/16
 2.17.0.0/16
 2.18.0.0/16

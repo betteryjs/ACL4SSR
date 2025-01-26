@@ -1,4 +1,4 @@
-#YouXiaDuiZhanPingTai,游侠对战平台,0,0,1,0,1,0,By-FQrabbit
+#YouXiaDuiZhanPingTai,1
 14.17.52.0/24
 27.204.99.0/24
 42.120.219.0/24

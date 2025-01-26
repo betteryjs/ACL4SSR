@@ -1,4 +1,4 @@
-#Borderlands3-asia,无主之地3,0,0,1,0,1,0,By-normanbb
+#Borderlands3-asia,1
 3.104.0.0/16
 3.120.26.0/24
 3.120.0.0/16

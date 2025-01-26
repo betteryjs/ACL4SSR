@@ -1,4 +1,4 @@
-#Ring-of-Elysium,无限法则,0,0,1,0,1,0,By-normanbb
+#Ring-of-Elysium,1
 1.2.0.0/16
 1.4.0.0/16
 1.9.0.0/16

@@ -32,6 +32,8 @@ for file in "$src_folder"/*.rules; do
         file_name=$(basename "$file" ".rules")
         # 复制文件到目标文件夹并修改后缀
         cp "$file" "$dst_folder/$file_name.txt"
+        sed -i '1s/,.*/,1/' "$dst_folder/$file_name.txt"
+
     fi
 done
 cp -r "./SSTap-Rule/rules" "./Game/"

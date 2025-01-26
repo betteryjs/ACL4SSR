@@ -1,4 +1,4 @@
-#BubbleFighter-KartRider-KR,泡泡战士-跑跑卡丁车-韩服,0,0,1,0,1,0,By-SlashYue
+#BubbleFighter-KartRider-KR,1
 27.102.104.0/24
 183.110.0.0/24
 3.34.158.0/24

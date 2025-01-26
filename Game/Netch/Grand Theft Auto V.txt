@@ -1,4 +1,4 @@
-#Grand Theft Auto V,Grand Theft Auto V,0,0,1,0,1,0,By-shushenM
+#Grand Theft Auto V,1
 173.245.48.0/20
 103.21.244.0/22
 103.22.200.0/22

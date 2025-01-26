@@ -1,4 +1,4 @@
-#World of Tanks-cn,坦克世界-国服,0,0,1,0,1,0,By-normanbb
+#World of Tanks-cn,1
 42.62.8.0/24
 42.120.219.0/24
 42.121.149.0/24

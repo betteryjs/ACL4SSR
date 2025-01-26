@@ -1,4 +1,4 @@
-﻿#world of warships-EU,战舰世界欧服,0,0,1,0,1,0,By-ip_crawl_tool
+﻿#world of warships-EU,1
 92.223.20.0/24
 92.223.19.0/24
 185.12.242.0/24

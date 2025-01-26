@@ -1,4 +1,4 @@
-#PUBG Asia & Southeast Asia,绝地求生亚服&东南亚服,0,0,1,0,1,0,By-normanbb
+#PUBG Asia & Southeast Asia,1
 1.255.48.0/20
 1.255.50.0/23
 1.255.54.0/23

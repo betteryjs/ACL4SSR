@@ -1,4 +1,4 @@
-#StarCraft-2-asia,StarCraft 2 亚服,0,0,1,0,1,0,By-normanbb
+#StarCraft-2-asia,1
 12.129.242.0/24
 24.105.28.0/24
 24.105.29.0/24

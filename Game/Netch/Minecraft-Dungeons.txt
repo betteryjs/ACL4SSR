@@ -1,4 +1,4 @@
-#Minecraft-Dungeons,我的世界-地下城,0,0,1,0,1,0,By-FQrabbit
+#Minecraft-Dungeons,1
 40.64.0.0/10
 34.192.0.0/12
 54.86.0.0/16

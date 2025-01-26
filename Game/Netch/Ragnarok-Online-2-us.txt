@@ -1,4 +1,4 @@
-#Ragnarok Online2-us,仙境传说2-us,0,0,1,0,1,0,By-normanbb
+#Ragnarok Online2-us,1
 128.241.93.0/24
 128.241.94.0/24
 162.14.10.107/32

@@ -1,4 +1,4 @@
-#Diablo-2-Resurrected,暗黑破坏神2：重制版,0,0,1,0,1,0,By-zhangdiming
+#Diablo-2-Resurrected,1
 2.18.213.0/24
 2.23.167.0/24
 3.34.0.0/15

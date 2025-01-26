@@ -1,4 +1,4 @@
-#Black Desert,黑色沙漠,0,0,1,0,1,0,By-normanbb
+#Black Desert,1
 5.79.111.0/24
 8.7.0.0/16
 23.0.0.0/8

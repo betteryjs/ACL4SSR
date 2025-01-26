@@ -1,4 +1,4 @@
-#PUBGLite-Garena,绝地求生低配版-Garena,0,0,1,0,1,0,By-PUBGLITE_WEBSITE
+#PUBGLite-Garena,1
 2.23.105.153/32
 3.1.205.0/24
 3.1.205.234/32

@@ -1,4 +1,4 @@
-#Escape from Tarkov,逃离塔科夫,0,0,1,0,1,0,By-normanbb
+#Escape from Tarkov,1
 5.188.95.0/24
 5.188.124.0/24
 5.188.148.0/24

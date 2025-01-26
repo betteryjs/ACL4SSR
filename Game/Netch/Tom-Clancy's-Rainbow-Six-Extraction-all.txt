@@ -1,4 +1,4 @@
-#Tom-Clancy's-Rainbow-Six-Extraction-all,彩虹六号-异种-全部,0,0,1,0,1,0,By-Tsukimori
+#Tom-Clancy's-Rainbow-Six-Extraction-all,1
 3.0.0.0/4
 3.14.0.0/16
 3.16.0.0/16

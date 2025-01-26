@@ -1,4 +1,4 @@
-#Star-Wars-BattlefrontII,星球大战2前线,0,0,1,0,1,0,By-normanbb
+#Star-Wars-BattlefrontII,1
 2.17.0.0/16
 2.18.0.0/16
 2.19.0.0/16

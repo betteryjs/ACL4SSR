@@ -1,4 +1,4 @@
-#Lethal Company,致命公司,0,0,1,0,1,0,By-izumiChan16
+#Lethal Company,1
 8.213.160.131/32
 18.162.179.0/24
 18.166.159.0/24

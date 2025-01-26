@@ -1,4 +1,4 @@
-#World of Warships CN,战舰世界国服UU,0,0,1,0,1,0,By-MirrorCY
+#World of Warships CN,1
 8.133.125.0/24
 14.17.88.0/24
 47.102.212.0/24

@@ -1,4 +1,4 @@
-#Apex-uu,Apex-uu,0,0,1,0,1,0,By-AmazingDM-MirrorCY
+#Apex-uu,1
 3.0.0.0/15
 3.24.157.0/24
 3.80.113.127/32

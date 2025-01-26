@@ -1,4 +1,4 @@
-#Monster Hunter: World,怪兽世界猎人steam版,0,0,1,0,1,0,By-normanbb
+#Monster Hunter: World,1
 2.16.0.0/16
 2.17.0.0/16
 2.18.0.0/16
