@@ -35,6 +35,28 @@ DOMAIN-SUFFIX,cdn-vps.naloong.de
 DOMAIN-SUFFIX,cdn.naloong.de
 
 
+DOMAIN-SUFFIX,alist.naloong.de
+DOMAIN-SUFFIX,blog.naloong.de
+DOMAIN-SUFFIX,book.naloong.de
+DOMAIN-SUFFIX,docker-de.naloong.de
+DOMAIN-SUFFIX,draw.naloong.de
+DOMAIN-SUFFIX,hub.naloong.de
+DOMAIN-SUFFIX,img.naloong.de
+DOMAIN-SUFFIX,minio.naloong.de
+DOMAIN-SUFFIX,m.naloong.de
+DOMAIN-SUFFIX,money.naloong.de
+DOMAIN-SUFFIX,npm-de.naloong.de
+DOMAIN-SUFFIX,pdf.naloong.de
+DOMAIN-SUFFIX,reg.naloong.de
+DOMAIN-SUFFIX,status.naloong.de
+DOMAIN-SUFFIX,sub.naloong.de
+DOMAIN-SUFFIX,substore.naloong.de
+DOMAIN-SUFFIX,tools.naloong.de
+DOMAIN-SUFFIX,bark.naloong.de
+DOMAIN-SUFFIX,vps.naloong.de
+DOMAIN-SUFFIX,goedge.naloong.de
+
+
 
 
 
