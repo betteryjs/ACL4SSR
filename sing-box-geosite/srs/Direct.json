@@ -9,6 +9,10 @@
     },
     {
       "domain_suffix": [
+        "alist.naloong.de",
+        "bark.naloong.de",
+        "blog.naloong.de",
+        "book.naloong.de",
         "cdn-alist.naloong.de",
         "cdn-bark.naloong.de",
         "cdn-blog.naloong.de",
@@ -31,11 +35,27 @@
         "cdn.naloong.de",
         "console.dogecloud.com",
         "dc.console.aliyun.com",
+        "docker-de.naloong.de",
         "dogecloud.com",
+        "draw.naloong.de",
+        "goedge.naloong.de",
+        "hub.naloong.de",
+        "img.naloong.de",
+        "m.naloong.de",
         "micu.hk",
+        "minio.naloong.de",
+        "money.naloong.de",
+        "npm-de.naloong.de",
+        "pdf.naloong.de",
+        "reg.naloong.de",
+        "status.naloong.de",
+        "sub.naloong.de",
+        "substore.naloong.de",
+        "tools.naloong.de",
         "tv.micu.hk",
         "tv0.micu.hk",
-        "tv1.micu.hk"
+        "tv1.micu.hk",
+        "vps.naloong.de"
       ]
     }
   ],
