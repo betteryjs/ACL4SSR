@@ -10,51 +10,11 @@ DOMAIN-SUFFIX,tv0.micu.hk
 DOMAIN-SUFFIX,console.dogecloud.com
 DOMAIN-SUFFIX,dogecloud.com
 DOMAIN-SUFFIX,dc.console.aliyun.com
+DOMAIN-SUFFIX,naloong.de
 
 
 
-DOMAIN-SUFFIX,cdn-alist.naloong.de
-DOMAIN-SUFFIX,cdn-blog.naloong.de
-DOMAIN-SUFFIX,cdn-book.naloong.de
-DOMAIN-SUFFIX,cdn-docker-de.naloong.de
-DOMAIN-SUFFIX,cdn-draw.naloong.de
-DOMAIN-SUFFIX,cdn-hub.naloong.de
-DOMAIN-SUFFIX,cdn-img.naloong.de
-DOMAIN-SUFFIX,cdn-minio.naloong.de
-DOMAIN-SUFFIX,cdn-m.naloong.de
-DOMAIN-SUFFIX,cdn-money.naloong.de
-DOMAIN-SUFFIX,cdn-npm-de.naloong.de
-DOMAIN-SUFFIX,cdn-pdf.naloong.de
-DOMAIN-SUFFIX,cdn-reg.naloong.de
-DOMAIN-SUFFIX,cdn-status.naloong.de
-DOMAIN-SUFFIX,cdn-sub.naloong.de
-DOMAIN-SUFFIX,cdn-substore.naloong.de
-DOMAIN-SUFFIX,cdn-tools.naloong.de
-DOMAIN-SUFFIX,cdn-bark.naloong.de
-DOMAIN-SUFFIX,cdn-vps.naloong.de
-DOMAIN-SUFFIX,cdn.naloong.de
 
-
-DOMAIN-SUFFIX,alist.naloong.de
-DOMAIN-SUFFIX,blog.naloong.de
-DOMAIN-SUFFIX,book.naloong.de
-DOMAIN-SUFFIX,docker-de.naloong.de
-DOMAIN-SUFFIX,draw.naloong.de
-DOMAIN-SUFFIX,hub.naloong.de
-DOMAIN-SUFFIX,img.naloong.de
-DOMAIN-SUFFIX,minio.naloong.de
-DOMAIN-SUFFIX,m.naloong.de
-DOMAIN-SUFFIX,money.naloong.de
-DOMAIN-SUFFIX,npm-de.naloong.de
-DOMAIN-SUFFIX,pdf.naloong.de
-DOMAIN-SUFFIX,reg.naloong.de
-DOMAIN-SUFFIX,status.naloong.de
-DOMAIN-SUFFIX,sub.naloong.de
-DOMAIN-SUFFIX,substore.naloong.de
-DOMAIN-SUFFIX,tools.naloong.de
-DOMAIN-SUFFIX,bark.naloong.de
-DOMAIN-SUFFIX,vps.naloong.de
-DOMAIN-SUFFIX,goedge.naloong.de
 
 
 
