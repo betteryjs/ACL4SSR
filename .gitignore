@@ -172,4 +172,6 @@ URL.txt
 sub
 config.json
 docker
- acl4ssr-clash
+acl4ssr-clash
+.venv
+
