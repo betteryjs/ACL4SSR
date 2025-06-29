@@ -2,21 +2,21 @@
   "rules": [
     {
       "domain_keyword": [
-        "28kvm.com",
-        "aliyun.com",
+        "aliyun",
         "dogecloud",
-        "guguyun.com",
-        "micu",
-        "naloong"
+        "micu"
       ]
     },
     {
       "domain_suffix": [
+        "28kvm.com",
         "console.dogecloud.com",
         "dc.console.aliyun.com",
         "dogecloud.com",
         "dsxys.pro",
+        "guguyun.com",
         "micu.hk",
+        "naloong.de",
         "tv.micu.hk",
         "tv0.micu.hk",
         "tv1.micu.hk"
