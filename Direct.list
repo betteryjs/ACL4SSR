@@ -2,12 +2,11 @@
 
 DOMAIN-KEYWORD,micu
 DOMAIN-KEYWORD,dogecloud
-DOMAIN-KEYWORD,aliyun.com
-DOMAIN-KEYWORD,28kvm.com
-DOMAIN-KEYWORD,guguyun.com
-DOMAIN-KEYWORD,naloong
+DOMAIN-KEYWORD,aliyun
 
-
+DOMAIN-SUFFIX,28kvm.com
+DOMAIN-SUFFIX,guguyun.com
+DOMAIN-SUFFIX,naloong.de
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,tv.micu.hk
 DOMAIN-SUFFIX,tv1.micu.hk
