@@ -16,6 +16,11 @@ DOMAIN-SUFFIX,githubusercontent.com
 # 我的代理域名
 DOMAIN-KEYWORD,shingstack
 DOMAIN-KEYWORD,v2ex
+DOMAIN-KEYWORD,oyunfor
+
+
+
+
 DOMAIN-SUFFIX,cloud.ggvision.net
 DOMAIN-SUFFIX,mm.duraincloud.com
 DOMAIN-SUFFIX,paoluz.com
@@ -26,7 +31,7 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,cnys.tv
-DOMAIN-KEYWORD,oyunfor
+
 
 
 
