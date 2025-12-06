@@ -34,6 +34,12 @@ DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,cnys.tv
 
+# SSH IP
+IP-CIDR,152.67.197.7/32,no-resolve
+IP-CIDR,146.56.116.193/32,no-resolve
+IP-CIDR,144.24.71.164/32,no-resolve
+
+
 
 
 
