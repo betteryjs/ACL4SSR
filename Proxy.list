@@ -18,6 +18,8 @@ DOMAIN-KEYWORD,shingstack
 DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,oyunfor
 DOMAIN-KEYWORD,naloong
+DOMAIN-KEYWORD,nodeseek
+DOMAIN-KEYWORD,linux
 
 
 
@@ -32,6 +34,16 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,cnys.tv
+
+# SSH IP
+# Oracle ARM
+IP-CIDR,152.67.197.7/32,no-resolve
+# Oracle AMD1 
+IP-CIDR,146.56.116.193/32,no-resolve
+# Oracle AMD2
+IP-CIDR,144.24.71.164/32,no-resolve
+
+
 
 
 

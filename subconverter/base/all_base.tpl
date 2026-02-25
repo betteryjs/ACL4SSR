@@ -31,6 +31,9 @@ skip-proxy = 127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,100.64.0.0/10,loc
 #DNS设置或根据自己网络情况进行相应设置
 bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
 dns-server = 119.29.29.29,223.5.5.5
+ipv6=true
+ipv6-vif=disabled
+
 
 [Script]
 http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
