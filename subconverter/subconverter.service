@@ -1,0 +1,14 @@
+[Unit]
+Description=SubConverter Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/subconverter
+ExecStart=/root/subconverter/subconverter
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
