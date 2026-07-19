@@ -62,5 +62,6 @@ IP-CIDR,134.185.100.154/32,no-resolve
 
 
 
-
+# Telegram Other
+IP-CIDR,149.154.167.151/32,no-resolve
 
