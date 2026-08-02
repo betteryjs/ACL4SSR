@@ -1,15 +1,10 @@
 #我的直连域名
 
-DOMAIN-KEYWORD,micu
 DOMAIN-KEYWORD,dogecloud
 DOMAIN-KEYWORD,aliyun
 
 DOMAIN-SUFFIX,28kvm.com
 DOMAIN-SUFFIX,guguyun.com
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,tv.micu.hk
-DOMAIN-SUFFIX,tv1.micu.hk
-DOMAIN-SUFFIX,tv0.micu.hk
 DOMAIN-SUFFIX,console.dogecloud.com
 DOMAIN-SUFFIX,dogecloud.com
 DOMAIN-SUFFIX,dc.console.aliyun.com
@@ -22,10 +17,15 @@ DOMAIN-SUFFIX,calogin.nwu.edu.cn
 DOMAIN-SUFFIX,abchina.com.cn
 
 
+# micu emby
+DOMAIN-SUFFIX,micu.hk
+DOMAIN-SUFFIX,tv.micu.hk
+DOMAIN-SUFFIX,tv1.micu.hk
+DOMAIN-SUFFIX,tv0.micu.hk
 
-
-# EMBY
+# misaka emby
 DOMAIN-SUFFIX,dragonli.misaka.be
+# emby
 DOMAIN-SUFFIX,emby1.naloong.de
 
 
